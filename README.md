@@ -251,7 +251,7 @@ This project maintains the same license as the original RTVRTM script.
 - **Original RTVRTM**: Created by klax
 - **Python 3 Port**: Modernized for current server environments by SealTeamRicks
 - **Community**: Thanks to the Movie Battles II community for continued support
-- **Clan**: CloneArmy Clan for Patients
+- **Clan**: CloneArmy Clan for Patience and testing
 
 ## Support
 
